@@ -52,7 +52,7 @@ function preload(){
 
 
 function setup() {
-  createCanvas(displayWidth-20,displayHeight-140);
+  createCanvas(displayWidth,displayHeight);
   database=firebase.database();
 
  medlily=createSprite(displayWidth/2-10,displayHeight/2-120,20,20);

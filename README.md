@@ -9,5 +9,7 @@ Medlily is a web app based on Javascript, HTML and CSS. The library used in the 
 ##### To try the web app, visit https://shreyagupta-123.github.io/Medlily-App/
 
 
+![alt text](https://github.com/ShreyaGupta-123/Medlily-App/blob/main/gif.gif?raw=true)
+
 
 

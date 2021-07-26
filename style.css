@@ -10,12 +10,12 @@ button {
   background-color: #FE00EF;
   border: none;
   color: white;
-  padding: 5px 25px;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   border-radius: 8px;
-  font-size: 16px;
+  font-size: 10px;
 }
 
 canvas {

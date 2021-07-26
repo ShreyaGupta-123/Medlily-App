@@ -14,7 +14,7 @@ Medlily is a web app based on Javascript, HTML and CSS. The library used in the 
 
 ![alt text](https://github.com/ShreyaGupta-123/Medlily-App/blob/main/gif.gif?raw=true)
 
-######## *The Image given may be an older version, the site might have been updated.
+######## The Image given may be an older version, the site might have been updated.
 
 
 

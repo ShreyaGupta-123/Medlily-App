@@ -6,6 +6,19 @@ html, body {
   padding: 0;
 }
 
+button{
+background-color: #9900ff;
+border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  font-family: "Oxygen",  sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size:  20px;
+  margin: 0px;
+  cursor: pointer;
+}
 
 canvas {
   display: block;

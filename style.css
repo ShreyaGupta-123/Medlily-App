@@ -6,7 +6,7 @@ html, body {
   padding: 0;
 }
 
-.button {
+button {
   background-color: #FE00EF;
   border: none;
   color: white;
